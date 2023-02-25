@@ -21,6 +21,11 @@
     font-size: 8rem;
     color: #4ECCA3;
   }
+h2{
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+}
   
   p {
     font-size: 2rem;
